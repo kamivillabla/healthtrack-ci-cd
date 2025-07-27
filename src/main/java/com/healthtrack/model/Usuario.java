@@ -18,7 +18,7 @@ public class Usuario {
     }
 
     public void actualizarPeso(double nuevoPeso) {
-              this.peso =- 1;
+              this.peso = nuevoPeso;
     }
 
     public void mostrarInformacion() {
